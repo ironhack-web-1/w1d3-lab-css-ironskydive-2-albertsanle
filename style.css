@@ -70,4 +70,66 @@ h5 {
 
 .header-quote {
     font-size: 2.5em;
+}
+
+#general-information {
+
+    background-color: rgb(25,33,41);
+    color: white;
+    font-size: 2em;
+    font-weight: 100;
+    text-align: center;
+}
+
+.link-btn {
+    background-color: rgb(67, 163, 230);
+    color: white;
+    font-family: RobotoCondensed;
+    font-size: 2em;
+    letter-spacing: 0.5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#structure {
+    font-size:1.7em;
+    text-align: center;
+}
+
+.service-box img {
+    width: 125px;
   }
+
+.dark-background {
+    background-color: rgb(25,33,41);
+    color: white;
+}
+
+.section-text {
+    font-size: 1.9em;
+    text-align: center;
+}
+
+.member-name {
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+#team img {
+    width: 250px;
+    height: 180px;
+}
+
+.address {
+    font-style: normal;
+    font-size: 0.8em;
+}
+
+.footer a {
+    color: rgb(67, 163, 230);
+    text-decoration: none;
+}
+
+.footer-ul {
+    list-style: none;
+}
